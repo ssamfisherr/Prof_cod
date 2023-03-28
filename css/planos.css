@@ -1,0 +1,26 @@
+.gratis, .mensal, .trimestral, .semestral, .anual{
+    border: 1px solid #000000;
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #fdffa2;
+    box-shadow: 5px 5px 10px #000;
+}
+
+button{
+    color:#ffffff;
+    background-color: #000;
+}
+
+.gratis, .mensal, .trimestral, .semestral, .anual{
+    text-align: center;
+}
+
+.gratis{
+    border: 1px solid; 
+}
+
+#principal{
+    margin: 0; 
+}
